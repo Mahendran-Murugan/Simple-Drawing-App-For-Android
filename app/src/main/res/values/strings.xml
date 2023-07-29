@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawingPadForMobile</string>
+    <string name="smallbutton">smallButton</string>
+    <string name="mediumbutton">medium button\n</string>
+    <string name="large_button">Large Button</string>
+    <string name="draw_icon">draw icon\n</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="image_view_for_bg">image_view_for_bg</string>
+</resources>
